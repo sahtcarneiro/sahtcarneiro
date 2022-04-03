@@ -5,7 +5,7 @@
 💼 I do volunteer work, as coordinator of Students for Liberty Brazil and manager of Clube Frei Caneca. <br>
 💻 I'm passionate about the python language and interested in web projects, data science and artificial intelligence. <br>
 💰 I'm an investor and cryptocurrency enthusiast. <br>
-⛺ I love traveling, playing instruments and practice jiu jitsu. <br> <br>
+⛺ I love traveling, playing instruments and practice brazilian jiu jitsu. <br> <br>
 
 <div>
     <a href="https://www.linkedin.com/in/sahtcarneiro" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
@@ -25,7 +25,7 @@
 <div>
   <a href="https://github.com/sahtcarneiro">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=vue-dark">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=compact&langs_count=16&theme=vue-dark"
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=compact&theme=vue-dark"
 </div>
 
 ##
