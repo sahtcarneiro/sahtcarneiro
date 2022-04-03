@@ -24,8 +24,8 @@
 
 <div>
   <a href="https://github.com/sahtcarneiro">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=vue-dark">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=compact&theme=vue-dark"
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=vue-dark">
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=compact&theme=vue-dark"
 </div>
 
 ##
