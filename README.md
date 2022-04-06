@@ -32,5 +32,3 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/sahtcarneiro/sahtcarneiro/blob/output/github-contribution-grid-snake.svg)
