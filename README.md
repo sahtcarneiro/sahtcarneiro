@@ -13,22 +13,18 @@
 </div>
   
 <div>
-    <br>
-    <img align="center" height="30" width="40" alt="Pyhton" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" height="30" width="40" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>  
 
 ##
 
 <div>
   <a href="https://github.com/sahtcarneiro">
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=dracula">
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=compact&theme=dracula"
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=vue-dark">
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=compact&theme=vue-dark"
 </div>
 
 ##
