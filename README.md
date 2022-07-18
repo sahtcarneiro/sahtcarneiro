@@ -3,7 +3,7 @@
 <img align="left" height="197em" width="215em" alt="JonathasCarneiro" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp">
 👔 I currently work as a private math teacher. <br>
 💼 I do volunteer work, as coordinator of Students for Liberty Brazil, manager and designer of Clube Frei Caneca. <br>
-💻 I'm passionate about the backend development and web services, and curious about data analysis. <br>
+💻 I'm focused on the full stack web development and curious about data analysis. <br>
 💰 I'm an investor and cryptocurrency enthusiast. <br>
 ⛺ I love traveling, playing instruments and practice brazilian jiu jitsu. <br> <br>
 
@@ -18,7 +18,8 @@
     <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-     <img align="center" height="30" width="40" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
     <img align="center" height="30" width="40" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
 </div>  
 
