@@ -3,7 +3,7 @@
 <img align="left" height="197em" width="215em" alt="JonathasCarneiro" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp">
 👔 I currently work as a private math teacher. <br>
 💼 I do volunteer work, as coordinator of <a href="https://studentsforliberty.org/brazil/">Students for Liberty Brazil</a>, manager and designer of <a href="https://www.instagram.com/clubefreicaneca/"> Clube Frei Caneca</a> <br>
-💻 I'm focused on the full stack web development and curious about data analysis. <br>
+💻 I'm focused on the data analysis and curious about full stack web development. <br>
 💰 I'm an investor and cryptocurrency enthusiast. <br>
 ⛺ I love traveling, playing instruments and practice brazilian jiu jitsu. <br> <br>
 
