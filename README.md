@@ -17,7 +17,7 @@
     
 <div>
     
-   ### My top Stacks:
+   ### My top stacks:
    
    <img align="center" height="30" width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
    <img align="center" height="30" width="40" alt="PythonPandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
