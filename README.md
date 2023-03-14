@@ -5,12 +5,15 @@
 💼 I do volunteer work, as coordinator of <a href="https://studentsforliberty.org/brazil/">Students for Liberty Brazil</a>, data analyst and designer of <a href="https://www.instagram.com/clubefreicaneca/"> Clube Frei Caneca</a> <br>
 💻 I'm focused on the data analytics and curious about full stack web development. <br>
 💰 I'm an investor and cryptocurrency enthusiast. <br>
-⛺ I love traveling, playing instruments and practice brazilian jiu jitsu. <br> <br>
+⛺ I love traveling, playing instruments and practice brazilian jiu jitsu. <br> 
+🧑🏽‍💻 Sometimes I do live data analysis, streamed on twitch tv! <br> <br>
 
 <div>
     <a href="https://www.linkedin.com/in/sahtcarneiro" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-    <a href="https://www.instagram.com/sahtcarneiro/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <a href="https://www.cloudskillsboost.google/public_profiles/02e7bd24-ca53-4ddd-8e9e-e04e359893b2" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+    <a href="https://www.cloudskillsboost.google/public_profiles/02e7bd24-ca53-4ddd-8e9e-e04e359893b2" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> </a>
+     <a href="https://www.kaggle.com/sahtcarneiro" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> </a>
+    <a href="https://www.twitch.tv/sahtcarneirot)" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"> </a>
+    <a href="https://www.instagram.com/sahtcarneiro/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 </div>
     
 ##
@@ -40,8 +43,8 @@
 
 <div>
   <a href="https://github.com/sahtcarneiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
