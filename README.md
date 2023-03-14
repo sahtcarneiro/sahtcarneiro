@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/sahtcarneiro" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/02e7bd24-ca53-4ddd-8e9e-e04e359893b2" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> </a>
      <a href="https://www.kaggle.com/sahtcarneiro" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> </a>
-    <a href="https://www.twitch.tv/sahtcarneirot)" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"> </a>
+    <a href="https://www.twitch.tv/sahtcarneirotv" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"> </a>
     <a href="https://www.instagram.com/sahtcarneiro/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 </div>
    
