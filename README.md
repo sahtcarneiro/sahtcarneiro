@@ -78,6 +78,9 @@
 
 <p><img height="170em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahtcarneiro&theme=vue-dark" alt="sahtcarneiro" /></p>
 
+##
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahtcarneiro" alt="sahtcarneiro" /></a> </p>
 
 ##
 
