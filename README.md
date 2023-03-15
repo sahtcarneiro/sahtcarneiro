@@ -16,7 +16,7 @@
   
   - 💻 My personal website (in progress) | Meu site pessoal (sendo produzido): [sahtcarneiro.github.io](https://github.com/sahtcarneiro/sahtcarneiro.github.io)
   
-  - 🧑🏽‍💻 All of my projects are available at | Todos meus projetos estão disponíveis no meu: <b>[Portfolio](https://github.com/sahtcarneiro/Portfolio)</b>
+  - 🧑🏽‍💻 All of my projects are available in my | Todos meus projetos estão disponíveis no meu: <b>[Portfolio](https://github.com/sahtcarneiro/Portfolio)</b>
 
   - 💬 Ask me about | Pode me perguntar sobre: **Math, Python, Data Analytics, Pandas, Google Cloud Platform, SQL, NoSQL**
 
