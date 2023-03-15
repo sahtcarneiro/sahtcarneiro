@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jonathas Carneiro</h1>
+<h1 align="center">Hi 👋, I'm Jonathas Carneiro | Oi 👋, sou o Jonathas Carneiro</h1>
 
-<h3 align="center">Volunteer, mathematician, and passionate about the process of discovery, on a journey to better understand the world through data analysis.</h3>
+<h3 align="left">Volunteer, mathematician, and passionate about the process of discovery, on a journey to better understand the world through data analysis.</h3>
+<h3 align="left"> Voluntário, matemático e apaixonado pelo processo de descoberta, em uma jornada para entender melhor o mundo por meio da análise de dados.</h3>
 <p align="left"> <img align="left" height="315,2em" width="344em" alt="JonathasCarneiro" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp"> </p> 
 <h3 align="left">About me | Sobre mim:</h3> 
 <p align="left">
@@ -80,6 +81,6 @@
 
 ##
 
-<h3 align="right">Support me | Apoie-me:</h3>
+<h3 align="right">Support my Work | Apoie meus Projetos:</h3>
 <p><a href="https://www.buymeacoffee.com/sahtcarneiro"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahtcarneiro" /></a><a href="https://ko-fi.com/sahtcarneiro"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sahtcarneiro" /></a></p><br><br>
 
