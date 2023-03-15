@@ -11,9 +11,9 @@
 
   - 🤝 I’m looking to collaborate on | Estou colaborando com o(a): [Students for Liberty Brazil](https://studentsforliberty.org/)
 
-  - 🤝 I’m looking for help with | Procuro auxilio no projeto: [Fiscaliza Frei Caneca](https://github.com/sahtcarneiro/Fiscaliza-FreiCaneca)
+  - 🤝 I’m looking for help with | Procuro auxílio no projeto: [Fiscaliza Frei Caneca](https://github.com/sahtcarneiro/Fiscaliza-FreiCaneca)
 
-  - 🧑🏽‍💻 All of my projects are available at | Todos meus projetos estão disponíveis no meu: [Portfolio](https://github.com/sahtcarneiro/sahtcarneiro.github.io)
+  - 🧑🏽‍💻 All of my projects are available at | Todos meus projetos estão disponíveis no meu: <b>[Portfolio](https://github.com/sahtcarneiro/sahtcarneiro.github.io)</b>
 
   - 💬 Ask me about | Pode me perguntar sobre: **Math, Python, Data Analytics, Pandas, Google Cloud Platform, SQL, NoSQL**
 
