@@ -5,6 +5,7 @@
 <p align="left"> <img align="left" height="315,2em" width="344em" alt="JonathasCarneiro" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp"> </p> 
 <h3 align="left">About me | Sobre mim:</h3> 
 <p align="left">
+  
   - 💻 I’m currently working on | Atualmente estou trabalhando no(a): [Martech Academy](https://github.com/sahtcarneiro/DataAnalytics-MartechAcademy)
 
   - 🌱 I’m currently learning | Atualmente estou aprendendo: **Data Science, AWS, PySpark, Looker Studio**
@@ -12,8 +13,10 @@
   - 🤝 I’m looking to collaborate on | Estou colaborando com o(a): [Students for Liberty Brazil](https://studentsforliberty.org/)
 
   - 🤝 I’m looking for help with | Procuro auxílio no projeto: [Fiscaliza Frei Caneca](https://github.com/sahtcarneiro/Fiscaliza-FreiCaneca)
-
-  - 🧑🏽‍💻 All of my projects are available at | Todos meus projetos estão disponíveis no meu: <b>[Portfolio](https://github.com/sahtcarneiro/sahtcarneiro.github.io)</b>
+  
+  - 💻 My personal web site (in progress)| Meu site pessoal (sendo produzido): [sahtcarneiro.github.io](https://github.com/sahtcarneiro/sahtcarneiro.github.io)
+  
+  - 🧑🏽‍💻 All of my projects are available at | Todos meus projetos estão disponíveis no meu: <b>[Portfolio](https://github.com/sahtcarneiro/Portfolio)</b>
 
   - 💬 Ask me about | Pode me perguntar sobre: **Math, Python, Data Analytics, Pandas, Google Cloud Platform, SQL, NoSQL**
 
