@@ -2,36 +2,38 @@
 
 <h3 align="center">Volunteer, mathematician, and passionate about the process of discovery, on a journey to better understand the world through data analysis.</h3>
 <p align="left"> <img align="left" height="315,2em" width="344em" alt="JonathasCarneiro" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp"> </p>
-<div align="center">
-  <a href="https://github.com/sahtcarneiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=compact&langs_count=7&theme=vue-dark"/>
-  <img align="center" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahtcarneiro&theme=vue-dark" alt="sahtcarneiro" />
-</div>    
-
-
-##
-
-<p align="right">
-
-- 💻 I’m currently working on | Atualmente estou trabalhando no(a): [Martech Academy](https://github.com/sahtcarneiro/DataAnalytics-MartechAcademy)
-
-- 🌱 I’m currently learning | Atualmente estou aprendendo: **Data Science, AWS, PySpark, Looker Studio**
-
-- 🤝 I’m looking to collaborate on | Estou colaborando com o(a): [Students for Liberty Brazil](https://studentsforliberty.org/)
-
-- 🤝 I’m looking for help with | Procuro auxilio no projeto: [Fiscaliza Frei Caneca](https://github.com/sahtcarneiro/Fiscaliza-FreiCaneca)
-
-- 🧑🏽‍💻 All of my projects are available at | Todos meus projetos estão disponíveis no meu: [Portfolio](https://github.com/sahtcarneiro/sahtcarneiro.github.io)
-
-- 💬 Ask me about | Pode me perguntar sobre: **Math, Python, Data Analytics, Pandas, Google Cloud Platform, SQL, NoSQL**
-
-- 📫 How to reach me | Por onde me encontrar: **sahtcarneiro@gmail.com**
-
-- 📄 Know about my experiences | Saiba sobre minhas experiências: [LinkedIn](https://www.linkedin.com/in/sahtcarneiro/)
-
-- ⚡ More about me | Mais sobre mim: **I love traveling, playing instruments and practice brazilian jiu jitsu and sometimes I do live data analysis, streamed on <a href="https://www.twitch.tv/sahtcarneirotv"> <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="sahtcarneirotv on twitch"/> </a>**
+<p  align="center">
+<a href="https://github.com/sahtcarneiro">
+<img align="left" height="313em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=demo&langs_count=7&theme=vue-dark"/>  
 </p>
+<p  align="right"> 
+ <a href="https://github.com/sahtcarneiro">
+<img height="153em" src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+<img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahtcarneiro&theme=vue-dark" alt="sahtcarneiro"/>
+</p>
+
+  ##   
+<h3 align="left">About me | Sobre mim:</h3> 
+  <p align="center">
+  
+  - 💻 I’m currently working on | Atualmente estou trabalhando no(a): [Martech Academy](https://github.com/sahtcarneiro/DataAnalytics-MartechAcademy)
+
+  - 🌱 I’m currently learning | Atualmente estou aprendendo: **Data Science, AWS, PySpark, Looker Studio**
+
+  - 🤝 I’m looking to collaborate on | Estou colaborando com o(a): [Students for Liberty Brazil](https://studentsforliberty.org/)
+
+  - 🤝 I’m looking for help with | Procuro auxilio no projeto: [Fiscaliza Frei Caneca](https://github.com/sahtcarneiro/Fiscaliza-FreiCaneca)
+
+  - 🧑🏽‍💻 All of my projects are available at | Todos meus projetos estão disponíveis no meu: [Portfolio](https://github.com/sahtcarneiro/sahtcarneiro.github.io)
+
+  - 💬 Ask me about | Pode me perguntar sobre: **Math, Python, Data Analytics, Pandas, Google Cloud Platform, SQL, NoSQL**
+
+  - 📫 How to reach me | Por onde me encontrar: **sahtcarneiro@gmail.com**
+
+  - 📄 Know about my experiences | Saiba sobre minhas experiências: [LinkedIn](https://www.linkedin.com/in/sahtcarneiro/)
+
+  - ⚡ More about me | Mais sobre mim: **I love traveling, playing instruments and practice brazilian jiu jitsu and sometimes I do live data analysis, streamed on <a  href="https://www.twitch.tv/sahtcarneirotv"> <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"     alt="sahtcarneirotv on twitch"/> </a>**
+  </p>
 
 ##
 
@@ -86,3 +88,5 @@
 ##
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahtcarneiro" alt="sahtcarneiro" /></a> </p>
+
+
