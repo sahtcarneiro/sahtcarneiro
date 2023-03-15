@@ -1,21 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonathas Carneiro</h1>
 
 <h3 align="center">Volunteer, mathematician, and passionate about the process of discovery, on a journey to better understand the world through data analysis.</h3>
-<p align="left"> <img align="left" height="315,2em" width="344em" alt="JonathasCarneiro" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp"> </p>
-<p  align="center">
-<a href="https://github.com/sahtcarneiro">
-<img align="left" height="313em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=demo&langs_count=7&theme=vue-dark"/>  
-</p>
-<p> 
- <a href="https://github.com/sahtcarneiro">
-<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-<img align="right" height="158em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahtcarneiro&theme=vue-dark" alt="sahtcarneiro"/>
-</p>
-
-  ##   
+<p align="left"> <img align="left" height="315,2em" width="344em" alt="JonathasCarneiro" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp"> </p> 
 <h3 align="left">About me | Sobre mim:</h3> 
-  <p align="center">
-  
+<p align="left">
   - 💻 I’m currently working on | Atualmente estou trabalhando no(a): [Martech Academy](https://github.com/sahtcarneiro/DataAnalytics-MartechAcademy)
 
   - 🌱 I’m currently learning | Atualmente estou aprendendo: **Data Science, AWS, PySpark, Looker Studio**
@@ -80,13 +68,18 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
-##
-
-<h3 align="left">Support me | Apoie-me:</h3>
-<p><a href="https://www.buymeacoffee.com/sahtcarneiro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahtcarneiro" /></a><a href="https://ko-fi.com/sahtcarneiro"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sahtcarneiro" /></a></p><br><br>
 
 ##
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahtcarneiro" alt="sahtcarneiro" /></a> </p>
+<p><img align="left" height = "365em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahtcarneiro&show_icons=true&theme=vue-dark&locale=en&layout=demo" alt="sahtcarneiro" /></p>
 
+<p>&nbsp;<img height="178em" align="center" src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=vue-dark&locale=en" alt="sahtcarneiro" /></p>
+
+<p><img height="170em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahtcarneiro&theme=vue-dark" alt="sahtcarneiro" /></p>
+
+
+##
+
+<h3 align="right">Support me | Apoie-me:</h3>
+<p><a href="https://www.buymeacoffee.com/sahtcarneiro"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahtcarneiro" /></a><a href="https://ko-fi.com/sahtcarneiro"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sahtcarneiro" /></a></p><br><br>
 
