@@ -6,10 +6,10 @@
 <a href="https://github.com/sahtcarneiro">
 <img align="left" height="313em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahtcarneiro&layout=demo&langs_count=7&theme=vue-dark"/>  
 </p>
-<p  align="right"> 
+<p> 
  <a href="https://github.com/sahtcarneiro">
-<img height="153em" src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-<img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahtcarneiro&theme=vue-dark" alt="sahtcarneiro"/>
+<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=sahtcarneiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+<img align="right" height="158em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahtcarneiro&theme=vue-dark" alt="sahtcarneiro"/>
 </p>
 
   ##   
