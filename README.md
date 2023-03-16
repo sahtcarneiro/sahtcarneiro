@@ -14,7 +14,7 @@
 
   - 🤝 I’m looking for help with | Procuro auxílio no projeto: [Fiscaliza Frei Caneca](https://github.com/sahtcarneiro/Fiscaliza-FreiCaneca)
   
-  - 💻 My personal website (in progress) | Meu site pessoal (sendo produzido): [sahtcarneiro.github.io](https://github.com/sahtcarneiro/sahtcarneiro.github.io)
+  - 💻 My personal website (in progress) | Meu site pessoal (sendo produzido): [sahtcarneiro.github.io/site](https://sahtcarneiro.github.io/site/)
   
   - 🧑🏽‍💻 All of my projects are available in my | Todos meus projetos estão disponíveis no meu: <b>[Portfolio](https://github.com/sahtcarneiro/Portfolio)</b>
 
