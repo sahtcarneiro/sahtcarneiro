@@ -12,7 +12,7 @@
 
   - 🤝 I’m looking to collaborate on | Estou colaborando com o(a): [Students for Liberty Brazil](https://studentsforliberty.org/)
 
-  - 🤝 I’m looking for help with | Procuro auxílio no projeto: [Fiscaliza Frei Caneca](https://github.com/sahtcarneiro/Fiscaliza-FreiCaneca)
+  - 🤝 I’m looking for help with | Procuro auxílio no projeto: [Projetos de Data Analytics](https://github.com/sahtcarneiro/DataAnalytics-Projects)
   
   - 💻 My personal website (in progress) | Meu site pessoal (sendo produzido): [sahtcarneiro.github.io/site](https://sahtcarneiro.github.io/site/)
   
