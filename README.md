@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathas Carneiro | Oi 👋, sou o Jonathas Carneiro</h1>
-
-<h3 align="left">Volunteer, mathematician, and passionate about the process of discovery, on a journey to better understand the world through data analysis.</h3>
-<h3 align="left"> Voluntário, matemático e apaixonado pelo processo de descoberta, em uma jornada para entender melhor o mundo por meio da análise de dados.</h3> <br> 
+ 
 <p align="left"> <img align="left" height="315,2em" width="344em" alt="JonathasCarneiro" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp"> </p> 
 <h3 align="left">About me | Sobre mim:</h3> 
 <p align="left">
