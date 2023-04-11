@@ -11,12 +11,10 @@
   - 🌱 I’m currently learning | Atualmente estou aprendendo: **Data Science, AWS, PySpark, Looker Studio**
 
   - 🤝 I’m looking to collaborate on | Estou colaborando com o(a): [Students for Liberty Brazil](https://studentsforliberty.org/)
-
-  - 🤝 I’m looking for help with | Procuro auxílio no projeto: [Projetos de Data Analytics](https://github.com/sahtcarneiro/DataAnalytics-Projects)
   
-  - 💻 My personal website (in progress) | Meu site pessoal (sendo produzido): [sahtcarneiro.github.io/site](https://sahtcarneiro.github.io/site/)
+  - 💻 My Portfolio (in progress) | Meu Portfolio (sendo produzido): [Portfolio](https://sahtcarneiro.github.io/site/)
   
-  - 🧑🏽‍💻 All of my projects are available in my | Todos meus projetos estão disponíveis no meu: <b>[Portfolio](https://github.com/sahtcarneiro/Portfolio)</b>
+  - 🧑🏽‍💻 All of my projects are available in | Todos meus projetos estão disponíveis no: [Projetos de Data Analytics](https://github.com/sahtcarneiro/DataAnalytics-Projects)
 
   - 💬 Ask me about | Pode me perguntar sobre: **Math, Python, Data Analytics, Pandas, Google Cloud Platform, SQL, NoSQL**
 
