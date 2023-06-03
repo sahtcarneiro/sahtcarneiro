@@ -20,7 +20,7 @@
 
   - 📄 Know about my experiences | Saiba sobre minhas experiências: [LinkedIn](https://www.linkedin.com/in/sahtcarneiro/)
 
-  - ⚡ More about me | Mais sobre mim: **I love traveling, playing instruments and practice brazilian jiu jitsu and sometimes I do live data analysis, streamed on <a  href="https://www.twitch.tv/sahtcarneirotv"> <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"     alt="sahtcarneirotv on twitch"/> </a>**
+  - ⚡ More about me | Mais sobre mim: **I love traveling, playing instruments and practice brazilian jiu jitsu>**
   </p>
 
 ##
