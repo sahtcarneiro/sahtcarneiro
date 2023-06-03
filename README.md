@@ -20,7 +20,7 @@
 
   - 📄 Know about my experiences | Saiba sobre minhas experiências: [LinkedIn](https://www.linkedin.com/in/sahtcarneiro/)
 
-  - ⚡ More about me | Mais sobre mim: **I love traveling, playing instruments and practice brazilian jiu jitsu>**
+  - ⚡ More about me | Mais sobre mim: **I love traveling, playing instruments and practice brazilian jiu jitsu**
   </p>
 
 ##
