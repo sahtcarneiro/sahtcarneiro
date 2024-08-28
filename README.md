@@ -4,9 +4,11 @@
 <h3 align="left">About me | Sobre mim:</h3> 
 <p align="left">
   
-  - 💻 I’m currently working on | Atualmente estou trabalhando no(a): [Martech Academy](https://github.com/sahtcarneiro/DataAnalytics-MartechAcademy)
+  - 💻 I’m currently working on | Atualmente estou trabalhando no(a): Freelance Data Analyst and Data Scientist
 
-  - 🌱 I’m currently learning | Atualmente estou aprendendo: **Data Science, AWS, PySpark, Looker Studio**
+  - 🌱 I’m currently learning | Atualmente estou aprendendo: **Advanced Data Science, AWS, Machine Learning**
+
+  - 🧑🏽‍💻 Professional Experience | Experiência Profissional: Data Analyst at SoulCode Academy, where I managed relational and non-relational databases, developed predictive models, and created dashboards for various departments. I utilized tools like Google Cloud Platform (GCP), including BigQuery for data warehousing, Dataflow for ETL processes, and Looker Studio for dashboard creation. In my freelance projects, I’ve worked extensively with Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL), NoSQL databases (MongoDB, Firebase), and data engineering tools like Apache Airflow for workflow automation.  
 
   - 🤝 I’m looking to collaborate on | Estou colaborando com o(a): [Students for Liberty Brazil](https://studentsforliberty.org/)
   
@@ -20,7 +22,7 @@
 
   - 📄 Know about my experiences | Saiba sobre minhas experiências: [LinkedIn](https://www.linkedin.com/in/sahtcarneiro/)
 
-  - ⚡ More about me | Mais sobre mim: **I love traveling, playing instruments and practice brazilian jiu jitsu**
+  - ⚡ More about me | Mais sobre mim: **I love traveling, playing instruments, practice brazilian jiu jitsu and boxing**
   </p>
 
 ##
